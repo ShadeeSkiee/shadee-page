@@ -13,8 +13,8 @@ const Footer = () => {
 
   return (
     <footer style={footerStyle}>
-      <p>Copyright © 2023 <a href="https://www.instagram.com/shadexml_/?igshid=MDM4ZDc5MmU=" without rel="noreferrer"style={{color:"white", textDecoration: "none"}} target={"_blank"} >
-        Shadexml
+      <p>Copyright © 2023 <a href="https://instagram.com/snezzyy__?igshid=MDM4ZDc5MmU=" without rel="noreferrer"style={{color:"white", textDecoration: "none"}} target={"_blank"} >
+        Bakti Putratama
       </a>
         </p>
     </footer>
